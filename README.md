@@ -87,6 +87,10 @@ Two packages: `pip install zimi` is the complete experience; `pip install zimi-m
 
 Most people configure nothing. Everything is in Settings; `zimi config` prints every effective value and where it came from, and each `ZIMI_*` variable is documented in the guides below.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Zimi/)
+
 ## Documentation
 
 - [Reading](docs/features/reading.md): search, the reader, Reader View, find in page, languages, PDFs, offline use.
